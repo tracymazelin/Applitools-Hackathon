@@ -5,7 +5,7 @@ The challenge is to write five (5) automated tests for both versions of the Appl
 1. One suite using your preferred traditional functional testing approach
 2. Another suite which covers the same tests but uses visual AI testing with Applitools
 
-More details about the competion requirements can be found [here](https://applitools.com/main-concepts).
+More details about the hackathon can be found [here](https://applitools.com/hackathon).
 
 ## Overview
 
@@ -15,7 +15,7 @@ I chose to complete part one using the SpecFlow BDD testing framework.  I chose 
 2. I use this framework in my job daily and so I'm familiar with it
 3. BDD testing is an industry best practice and implements the Page Object Model
 
-## Pacakages
+## Packages
 
 The project uses the following packages:
 
@@ -50,7 +50,7 @@ The project uses the following packages:
 
 * Clone the repo
 * Add your applitools api key to an environment variable named 'APPLITOOLS_API_KEY'
-* Build the solution
+* Build the solution twice
 * Execute the tests using the Visual Studio Test Explorer
 
 ## Author
